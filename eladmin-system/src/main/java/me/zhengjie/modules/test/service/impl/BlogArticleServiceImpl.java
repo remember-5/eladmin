@@ -9,6 +9,7 @@ import org.springframework.stereotype.Service;
 @Service
 public class BlogArticleServiceImpl extends ServiceImpl<BlogArticleMapper, BlogArticle> implements BlogArticleService {
 
+
 }
 
 
